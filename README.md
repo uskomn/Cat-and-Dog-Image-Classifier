@@ -1,1 +1,2 @@
-# learngit
+# 猫狗图像分类器
+kaggle上的竞赛项目
